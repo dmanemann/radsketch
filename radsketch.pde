@@ -17,3 +17,4 @@ void setup() {
     width/2 + cos(radians(210))*25, height/2 - sin(radians(210))*25,
     width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*25 );
 }
+
